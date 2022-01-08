@@ -23,7 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![ParseInstagramWalkthrough](https://user-images.githubusercontent.com/46458166/148634062-bbc0d008-941a-4ae9-9e33-ed731d455965.gif)
+![ParseInstagramWalkthrough](https://user-images.githubusercontent.com/46458166/148656084-80766620-d67b-4b98-a673-875bbe88b5a8.gif)
+
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
