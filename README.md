@@ -2,7 +2,7 @@
 
 ParseInstagram is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: 3 hours spent in total
+Time spent: 4 hours spent in total
 
 ## User Stories
 
@@ -23,12 +23,12 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/reachv/ParseInstagram/blob/main/Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![ParseInstagramWalkthrough](https://user-images.githubusercontent.com/46458166/148634062-bbc0d008-941a-4ae9-9e33-ed731d455965.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
+I had a challenge with the gradle, there was a build issue that I had to talk to a TA for to get resolved which affected this project specifically.
 
 ## Open-source libraries used
 
@@ -37,7 +37,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [ArenAshikian]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
