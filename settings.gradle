@@ -1,0 +1,2 @@
+rootProject.name = "ParseInstagram"
+include ':app'
