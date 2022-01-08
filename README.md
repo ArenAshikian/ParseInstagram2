@@ -1,4 +1,4 @@
-# Project 3 - ParseInstagram
+# Project 3 - Unit 5 Project: Build Instagram from the Ground Up - Part 1
 
 ParseInstagram is a photo sharing app similar to Instagram but using Parse as its backend.
 
